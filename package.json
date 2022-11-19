@@ -1,7 +1,7 @@
 {
   "name": "manivarmal4",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000w\u0000d\u00002\u00001\u00000\u0000l\u00001\u0000e\u0000v\u0000e\u0000l\u00004\u0000\r\u0000 \u0000",
+  "description": "",
   "main": "todo.js",
   "scripts": {
     "test": "jest",
